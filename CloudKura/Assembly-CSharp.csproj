@@ -62,10 +62,10 @@
      <Compile Include="Assets\Scripts\SideMenu.cs" />
      <Compile Include="Assets\Scripts\SqliteDatabase.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/CloudKura/unity/CloudKura/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/GitHub/CloudKura/Rev1/CloudKura/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/CloudKura/unity/CloudKura/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/GitHub/CloudKura/Rev1/CloudKura/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
